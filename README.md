@@ -1,2 +1,2 @@
 # Equity-Research-Portfolio
-An independent equity research project developed during my sophomore year of high school to apply algorithmic data collection and quantitative modeling to the interactive entertainment sector."
+An independent equity research project developed during my sophomore year of high school to apply algorithmic data collection and quantitative modeling.
