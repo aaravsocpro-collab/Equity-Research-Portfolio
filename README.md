@@ -1,2 +1,2 @@
 # Equity-Research-Portfolio
-A collection of independent equity research reports analyzing publicly traded companies using financial statements, industry research, valuation metrics, and investment analysis.
+An independent equity research project developed during my sophomore year of high school to apply algorithmic data collection and quantitative modeling to the interactive entertainment sector."
