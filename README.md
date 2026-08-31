@@ -1,2 +1,4 @@
 # Equity-Research-Portfolio
-An independent equity research project developed during my sophomore year of high school to apply algorithmic data collection and quantitative modeling.
+An independent quantitative equity research portfolio leveraging statistical forecasting models, 
+macroeconomic framework analysis, and corporate valuation methodologies.
+
